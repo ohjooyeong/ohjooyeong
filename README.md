@@ -7,11 +7,11 @@
  </div>
    
 ### Frontend Engineer
-👋 Hi there! I'm JooYeong Oh.
+👋 Hi there! I'm JooYeong Oh.and from Republic of Korea
 
 I'm Front Engineer using React and Javascript. ⚡
 
-Currently, I am studying while working on a project with TypeScript. ✏️
+Currently, I am studying while working on a project with TypeScript, Nextjs, Recoil and SWR. ✏️
 
 I enjoy Reading Web-novel, Room escape game and Billiards. 🧩 🎱
  
